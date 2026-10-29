@@ -6,6 +6,20 @@
 
 An Explainable AI project focused on understanding credit risk predictions and identifying the factors influencing a Machine Learning model's decisions using **SHAP (SHapley Additive exPlanations)**.
 
+## 🚀 Live Demo
+
+🌐 **Try the Credit Risk Prediction App:**  
+👉 https://creditriskkit.onrender.com/
+
+Explore the deployed application and test the credit risk prediction experience.
+
+## 🔗 Project Links
+
+- 🌐 **Live Demo:** https://creditriskkit.onrender.com/
+- 💻 **GitHub Repository:** https://github.com/eddiebrock911/Credit-Risk-using-SHAP
+
+
+
 ## ✨ Key Features
 
 - 💳 Credit risk prediction
